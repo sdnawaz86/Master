@@ -1,3 +1,4 @@
 # Master
-This is my first Repository
-Author - Syed Nawaz
+This is my first Repository.
+<br>
+Author - Syed Nawaz.
