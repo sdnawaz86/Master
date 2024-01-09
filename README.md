@@ -1,4 +1,4 @@
 # Master
 This is my first Repository.
 <br>
-Author - Syed Nawaz.
+Author - Syed Nawaz (Cloduinfotech)
